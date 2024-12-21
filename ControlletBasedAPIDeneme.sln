@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlletBasedAPIDeneme", "ControlletBasedAPIDeneme\ControlletBasedAPIDeneme.csproj", "{679A79DC-28D8-4966-8942-89FF80D3B17D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{679A79DC-28D8-4966-8942-89FF80D3B17D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{679A79DC-28D8-4966-8942-89FF80D3B17D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{679A79DC-28D8-4966-8942-89FF80D3B17D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{679A79DC-28D8-4966-8942-89FF80D3B17D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08786513-70D2-4423-A31B-547ED6274FD7}
+	EndGlobalSection
+EndGlobal
